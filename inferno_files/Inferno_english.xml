@@ -314,8 +314,8 @@
 
             <lg n="46">
                <l n="136">Democritus, who puts the world on chance,</l>
-               <l n="137">Diogenes, Anaxagoras, and Thales,</l>
-               <l n="138">Zeno, Empedocles, and Heraclitus;</l>
+               <l n="137">Diogenes, <persName type="fictionalized">Anaxagoras</persName>, and Thales,</l>
+               <l n="138">Zeno, Empedocles, and <persName cert="medium">Heraclitus</persName>;</l>
             </lg>
 
             <lg n="47">
@@ -337,7 +337,7 @@
             </lg>
 
             <lg n="50">
-               <l n="148">The sixfold company in two divides;</l>
+               <l n="148">The <orgName>sixfold company</orgName> in two divides;</l>
                <l n="149">Another way my sapient Guide conducts me</l>
                <l n="150">Forth from the quiet to the air that trembles;</l>
             </lg>
