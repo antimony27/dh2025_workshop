@@ -314,7 +314,7 @@
 
             <lg n="46">
                <l n="136">Democritus, who puts the world on chance,</l>
-               <l n="137">Diogenes, <persName type="fictionalized">Anaxagoras</persName>, and Thales,</l>
+               <l n="137">Diogenes, <persName role="philosopher" subtype="Notheardof" type="fictionalized">Anaxagoras</persName>, and Thales,</l>
                <l n="138">Zeno, Empedocles, and <persName cert="medium">Heraclitus</persName>;</l>
             </lg>
 
