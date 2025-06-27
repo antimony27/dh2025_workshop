@@ -171,7 +171,7 @@
             <lg n="22">
                <l n="64">We ceased not to advance because he spake,</l>
                <l n="65">But still were passing onward through the forest,</l>
-               <l n="66">The <placeName>forest</placeName>, say I, of thick-crowded ghosts.</l>
+               <l n="66">The <placeName>forest</placeName>, say I, of <orgName cert="low">thick-crowded ghosts</orgName>.</l>
             </lg>
 
             <lg n="23">
@@ -217,7 +217,7 @@
             </lg>
 
             <lg n="30">
-               <l n="88">That one is Homer, Poet sovereign;</l>
+               <l n="88">That one is <persName cert="medium">Homer</persName>, Poet sovereign;</l>
                <l n="89">He who comes next is Horace, the satirist;</l>
                <l n="90">The third is Ovid, and the last is Lucan.</l>
             </lg>
