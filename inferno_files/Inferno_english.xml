@@ -157,7 +157,7 @@
             </lg>
 
             <lg n="20">
-               <l n="58">Abraham, patriarch, and <persName cert="medium">David</persName>, king,</l>
+               <l n="58">Abraham, patriarch, and <persName cert="medium" role="King" subtype="Known" type="fictionalized">David</persName>, king,</l>
                <l n="59">Israel with his father and his children,</l>
                <l n="60">And <persName type="fictionalized">Rachel</persName>, for whose sake he did so much,</l>
             </lg>
