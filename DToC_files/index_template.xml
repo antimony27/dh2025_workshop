@@ -23,18 +23,17 @@
 	<text>
 		<body>
 			<div type="index">
-				<list>
-					<item>
-						<ref target="target">Index item</ref>
-						<list>
-							<head>Index item</head>
-							<item><ref target="target">Target</ref></item>
-							<item><ref target="target">Target</ref></item>
-							<item><ref target="target">Target</ref></item>
-						</list>
-					</item>
-				</list>
-			</div>
+	<list>
+    		<item>
+        			<ref target="#lg006 #lg016 #lg017 #lg025">Dante Speaks</ref>
+        			<list>
+            			<item><ref target="#lg006”>First question</ref></item>
+            			<item><ref target=“#lg016 #lg017”>Second question</ref></item>
+            			<item><ref target=“#lg025”>Third question</ref></item>
+        				</list>
+    			</item>
+		</list>
+	</div>
 		</body>
 	</text>
 </TEI>
