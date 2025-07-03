@@ -1,0 +1,35 @@
+{
+    "editionTitle": "DHWorkshop_Test1",
+    "editionSubtitle": "",
+    "ignoreNamespace": true,
+    "documents": "//div[@type=\"canto\"]",
+    "documentContent": "",
+    "documentTitle": "head",
+    "documentAuthor": "",
+    "indexDocument": "",
+    "documentImages": "",
+    "documentNotes": "",
+    "documentLinks": "",
+    "inputs": [
+        "https://raw.githubusercontent.com/antimony27/dh2025_workshop/main/inferno_files/Inferno_english.xml"
+    ],
+    "curation": {
+        "markup": [
+            {
+                "xpath": "//div",
+                "label": "div"
+            },
+            {
+                "xpath": "//persName",
+                "label": "person"
+            },
+            {
+                "xpath": "//persName[@subtype='Roman']",
+                "label": "romans"
+            }
+        ],
+        "toc": [
+            "773f4b68bbd985bf4d6078fb8935bc456272819e649acd968f82d22dac809dad"
+        ]
+    }
+}
