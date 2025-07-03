@@ -293,7 +293,7 @@
 
             <lg n="43" xml:id="lg043">
                <l n="127">I saw that Brutus who drove Tarquin forth,</l>
-               <l n="128"><persName cert="medium" subtype="Roman" xml:id="lucr01" type="real">Lucretia</persName>, <persName subtype="Roman" xml:id="juli01">Julia</persName>, Marcia, and Cornelia,</l>
+               <l n="128"><persName cert="medium" subtype="Roman" xml:id="lucr01" type="real">Lucretia</persName>, <persName subtype="Roman" xml:id="juli01">Julia</persName>, <persName subtype="Roman" xml:id="marc01" type="real">Marcia</persName>, and Cornelia,</l>
                <l n="129">And saw alone, apart, the Saladin.</l>
             </lg>
 
