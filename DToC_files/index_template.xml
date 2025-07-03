@@ -25,7 +25,8 @@
 			<div type="index">
 	<list>
     		<item>
-        			<ref target="#lg006 #lg016 #lg017 #lg025">Dante Speaks</ref>
+        			<head>Dante Speaks</head> 
+				<ref target="#lg006 #lg016 #lg017 #lg025">Dante Speaks</ref>
         			<list>
             			<item><ref target="#lg006”>First question</ref></item>
             			<item><ref target=“#lg016 #lg017”>Second question</ref></item>
