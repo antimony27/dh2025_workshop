@@ -20,8 +20,16 @@
                 "label": "div"
             },
             {
+                "xpath": "//persName[@subtype='Greeks']",
+                "label": "greeks"
+            },
+            {
                 "xpath": "//persName",
                 "label": "person"
+            },
+            {
+                "xpath": "//persName[@type='real']",
+                "label": "real"
             },
             {
                 "xpath": "//persName[@subtype='Roman']",
@@ -29,7 +37,7 @@
             }
         ],
         "toc": [
-            "773f4b68bbd985bf4d6078fb8935bc456272819e649acd968f82d22dac809dad"
+            "cba402a383ec407b8fb42a310e0d464e732b58a6b6aa7f40b8b29a9df5d5162b"
         ]
     }
 }
