@@ -25,13 +25,17 @@
 			<div type="index">
 	<list>
     		<item>
-        			<head>Dante Speaks</head> 
-				<ref target="#lg006 #lg016 #lg017 #lg025">Dante Speaks</ref>
         			<list>
-            			<item><ref target="#lg006”>First question</ref></item>
-            			<item><ref target=“#lg016 #lg017”>Second question</ref></item>
-            			<item><ref target=“#lg025”>Third question</ref></item>
-        				</list>
+     					<head>Dante Speaks</head>
+      					<item>
+       					<ref target="#lg006 #lg016 #lg017 #lg025"/>Dante Speaks</ref>
+      					<list>
+				        <item><ref target="#lg006"/>First question</item>
+				        <item><ref target="#lg016 #lg017"/>Second question</item>
+				        <item><ref target="#lg025"/>Third question</item>
+        			</list>
+      		</item>
+     </list>
     			</item>
 		</list>
 	</div>
